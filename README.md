@@ -7,4 +7,6 @@ Cisco Packet Tracer is a free network simulation and visualization tool develope
 
 ## Installation
 Navigate to the Resource Hub here: https://www.netacad.com/resources/lab-downloads
-
+<br> 
+![image]https://github.com/Eichmen/Cisco-Packet-Tracer---Projects/blob/main/images/Resource.jpg)
+</br>
