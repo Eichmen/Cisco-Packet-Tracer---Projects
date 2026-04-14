@@ -43,3 +43,18 @@ Allows simple automation scenarios
 💾 8. Save & Share Projects
 You can save network topologies
 Share labs with classmates or instructors
+
+
+# Projects
+
+Cluster - OSP Single Area Network And DNS-WEB Servers
+
+Single Area OSPF Area - Extended Lab(Network Layer)
+
+Lab2InterfaceConfiguration
+
+Lab1BasicSwitchSetup_Router
+
+
+
+
