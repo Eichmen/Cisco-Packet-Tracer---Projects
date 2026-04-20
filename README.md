@@ -49,7 +49,11 @@ Share labs with classmates or instructors
 
 Cluster - OSP Single Area Network And DNS-WEB Servers
 
+
+
 Single Area OSPF Area - Extended Lab(Network Layer)
+
+<img width="1438" height="795" alt="Image" src="https://github.com/user-attachments/assets/b5c9140c-8172-4c01-964a-f6435f6f3072" />
 
 Lab2InterfaceConfiguration
 
