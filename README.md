@@ -53,7 +53,10 @@ Single Area OSPF Area - Extended Lab(Network Layer)
 
 Lab2InterfaceConfiguration
 
+<img width="1438" height="796" alt="Image" src="https://github.com/user-attachments/assets/0c29b37f-33a0-492c-8474-fd6611d011a8" />
+
 Lab1BasicSwitchSetup_Router
+
 <img width="1438" height="799" alt="Image" src="https://github.com/user-attachments/assets/c73d95e9-38e8-4069-8ff9-849b14bf2e44" />
 
 
